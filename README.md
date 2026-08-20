@@ -2,6 +2,8 @@
 
 Simulating AWS resource governance for a multi-department company using Resource Groups, Organizations, and Cost Budgets.
 
+[Leia em português](README.pt-BR.md)
+
 ## Objective
 
 Demonstrate a practical AWS governance setup, applying resource tagging, organizational hierarchy, and cost control - concepts commonly required in Cloud and FinOps roles.
